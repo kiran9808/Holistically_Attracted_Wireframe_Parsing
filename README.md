@@ -7,4 +7,5 @@ For computing line segment proposals, a novel exact  dual representation is prop
 and deep-learning.
 # Contributors:
 B kiran (1915023)
+
 A Pradeep (1915026)
